@@ -39,6 +39,7 @@ There are two notebooks/spaces that I showed and which offer a great introductio
 
 Right now Lightning.ai has a really generous pricing & billing structure + if you sign up with your real-number you'll get an additional 15 compute units. I ran the Weaviate notebook at least 20 times on the A100 and only burned down 3 units, so there's plenty for building example projects.
 
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/cdfb36b9-657f-4a7e-8143-e9f2932ffea9)
 
 
 
