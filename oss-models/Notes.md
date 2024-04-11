@@ -65,7 +65,7 @@ Anecdote: I ran the Weaviate notebook at least 20 times on the A100 and only bur
 
 For this first space, you don't need anything special in terms of keys or credentials.
 
-* Chat with your code: Using Weaviate, LlamaIndex, & Ollama (Not so easy) - https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex
+* Chat with your code: Using [Weaviate](https://weaviate.io/), [LlamaIndex](https://www.llamaindex.ai/), & [Ollama](https://ollama.com/) (Not as easy) - https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex
 
 For the second space you'll need to create an account with Weaviate to create a hosted Weaviate cluster where the embeddings are ultimately stored. 
 The instructions are incredibly straight-forward and they offer a 14-day trial. You can do quite a bit with the existing sandbox clusters for toy projects and they have an active developer community, so would highly recommend.
