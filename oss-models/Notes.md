@@ -15,23 +15,30 @@ In the mini-workshop we covered a couple different tutorials, tools and resource
 
 ### Fine-Tuning: Creating a Taylor Swift fine-tuned model 
 There are two notebooks (exact same project): 
-* [Mini]_HelloTaylorSwift_FineTuning.ipynb - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
-* [Explainer]_HelloTaylorSwift_FineTuning.ipynb - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
+* [[Mini]_HelloTaylorSwift_FineTuning.ipynb](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BMini%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
+* [[Explainer]_HelloTaylorSwift_FineTuning.ipynb](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BExplainer%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
 
 There are some requirements that need to be met to work, namely that you need:
-1. Need a Huggingface account
-2. Need a Google Colab account.
+1. Need a [Huggingface account](https://huggingface.co/)
+2. Need a [Google Colab account](https://colab.research.google.com/).
 
 In both cases, having a Pro subscription is super helpful (and well-worth it) especially if your lcoal computer isn't powerful enough to fine-tune (although I picked TinyLlama specifically because of the size). 
 
 With that being said, it shouldn't be required. 
+
+* [Huggingface Pro](https://huggingface.co/pricing)
+* [Colab Pro](https://colab.research.google.com/signup)
+
+![Screenshot 2024-04-11 at 4 12 15 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/3eeae395-f5a5-4dc5-80a6-36be727d0db2)
+
+![Screenshot 2024-04-11 at 4 13 26 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/741b0644-ef9c-4bcc-8aa7-8ef088a15b6a)
 
 #### Additional Links
 
 
 
 ### RAG 
-There are two notebooks/spaces that I showed and which offer a great introduction to using RAG. 
+There are two notebooks/spaces that I showed and which offer a great introduction to using RAG (both of which are hosted on [Lightning.ai](https://lightning.ai/)).
 
 * Chat with your code using RAG! (Easy Mode) - https://lightning.ai/lightning-ai/studios/chat-with-your-code-using-rag?section=featured
 
