@@ -74,6 +74,9 @@ The instructions are incredibly straight-forward and they offer a 14-day trial. 
 ## Additional Resources
 
 These are resources that can be helpful but weren't primary references.
+### LLMs
+* How do LLMs like ChatGPT work? Explained by Deep-Fake Ryan Gosling using Synclabs and ElevenLabs: https://www.youtube.com/watch?v=xU_MFS_ACrU
+
 ### AI Engineering
 
 
@@ -84,4 +87,6 @@ These are resources that can be helpful but weren't primary references.
 
 
 ### RAG
+* How RAG makes LLMs like ChatGPT more accurate and up-to-date. By Deep-Fake Chance The Rapper.: https://www.youtube.com/watch?v=q9hlaa7DnNU
+
 * LLM and Vector Databases: Concepts, Architectures, and Examples - Sam Partee - https://www.youtube.com/watch?v=zEX3xVxSqqM
