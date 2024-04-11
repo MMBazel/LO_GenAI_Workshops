@@ -35,19 +35,40 @@ With that being said, it shouldn't be required.
 
 #### Additional Links
 
+HelloTaylorSwift tutorial is based primarily on this tutorial:
+
+* [Original kaggle notebook](https://www.kaggle.com/code/tommyadams/fine-tuning-tinyllama)
+* [Kaggle dataset](https://www.kaggle.com/datasets/thespacefreak/taylor-swift-song-lyrics-all-albums)
+  
+However these other resources are also helpful:
+
+* Similar Model: https://huggingface.co/huggingartists/taylor-swift
+* Similar Dataset: https://huggingface.co/datasets/huggingartists/taylor-swift
+Tutorials on SFT & fine-tuning, TinyLlama, & HuggingFace
+
+* [Fine-Tune Your Own Tiny-Llama on Custom Dataset](https://www.youtube.com/watch?v=OVqe6GTrDFM)
+* [TinyLlama LLM: A Step-by-Step Guide to Implementing the 1.1B Model on Google Colab](https://dev.to/_ken0x/tinyllama-llm-a-step-by-step-guide-to-implementing-the-11b-model-on-google-colab-1pjh)
+* [Instruct-Tune Llama to Create ChatGPT Like Chatbots | Custom Dataset, Huggingface, SFT](https://www.youtube.com/watch?v=6XeTk8cZUsM)
+* https://github.com/uygarkurt/SFT-TinyLlama/tree/main
 
 
-### RAG 
+### Doing Simple RAG 
 There are two notebooks/spaces that I showed and which offer a great introduction to using RAG (both of which are hosted on [Lightning.ai](https://lightning.ai/)).
 
-* Chat with your code using RAG! (Easy Mode) - https://lightning.ai/lightning-ai/studios/chat-with-your-code-using-rag?section=featured
-
-* Chat with your code: Using Weaviate, LlamaIndex, & Ollama (Not so easy) - https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex
-
-Right now Lightning.ai has a really generous pricing & billing structure + if you sign up with your real-number you'll get an additional 15 compute units. I ran the Weaviate notebook at least 20 times on the A100 and only burned down 3 units, so there's plenty for building example projects.
+Right now Lightning.ai has a really generous pricing & billing structure + if you sign up with your real phone number (trust me, it doesn't accept Google Voice numbers 😢) you'll get an additional 15 compute units. 
 
 ![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/cdfb36b9-657f-4a7e-8143-e9f2932ffea9)
 
+Anecdote: I ran the Weaviate notebook at least 20 times on the A100 and only burned down 3 units, so there's plenty for building example projects.
+
+* Chat with your code using RAG! (Easy Mode) - https://lightning.ai/lightning-ai/studios/chat-with-your-code-using-rag?section=featured
+
+For this first space, you don't need anything special in terms of keys or credentials.
+
+* Chat with your code: Using Weaviate, LlamaIndex, & Ollama (Not so easy) - https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex
+
+For the second space you'll need to create an account with Weaviate to create a hosted Weaviate cluster where the embeddings are ultimately stored. 
+The instructions are incredibly straight-forward and they offer a 14-day trial. You can do quite a bit with the existing sandbox clusters for toy projects and they have an active developer community, so would highly recommend.
 
 
 ## Additional Resources
