@@ -81,6 +81,7 @@ These are resources that can be helpful but weren't primary references.
 
 
 ### LLMOps/Gen-AI Ecosystem
+* Excellent AI Summarizer: https://buttondown.email/ainews
 
 
 ### Fine-Tuning 
@@ -90,3 +91,6 @@ These are resources that can be helpful but weren't primary references.
 * How RAG makes LLMs like ChatGPT more accurate and up-to-date. By Deep-Fake Chance The Rapper.: https://www.youtube.com/watch?v=q9hlaa7DnNU
 
 * LLM and Vector Databases: Concepts, Architectures, and Examples - Sam Partee - https://www.youtube.com/watch?v=zEX3xVxSqqM
+
+## Additional Practice
+* One of the best Hackathon sites for Gen-AI: https://lablab.ai/
