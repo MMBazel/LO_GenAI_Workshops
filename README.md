@@ -10,5 +10,5 @@ Repo for slides and supplementary material's for the Lonely Octopus 2024 bootcam
 * Description: We'll learn the "just enough" MLOps needed for new data and ML practitioners to be useful in a company setting.
 
 
-### Workshop: Creating New Futures With Agents ()
+### Mini-Workshop: Creating New Futures With Agents - May 2nd (Thursday) at 8PM PST
 * Description: Fearing the agent-takeover? Learn how to make agents work for you in this fun introduction showing the strengths (& limitations) of agents.
