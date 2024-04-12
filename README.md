@@ -7,9 +7,9 @@ Repo for slides and supplementary material's for Mikiko's talks for the Lonely O
 ### 🦙 Mini-Workshop: Crash Course Open Source Models 🦙  - April 11th (Thursday) at 8PM PST
 Description: Understanding how to build with open-source models is a requirement for being an in-demand, AI engineer. We'll learn the main ways open-source models can be used off-the-shelf, adapted or chained for modern Gen-AI applications.
 * Folder: [/oss-models](https://github.com/MMBazel/LO_GenAI_Workshops/tree/main/oss-models)
-  * Resources List: [/oss-models/Notes.md](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/Notes.md)
-  * Slides: [/oss-models/[Workshop] Crash Course_ Open-Source Models.pdf](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BWorkshop%5D%20Crash%20Course_%20Open-Source%20Models.pdf)
-  * Notebooks: [/oss-models/notebooks/](https://github.com/MMBazel/LO_GenAI_Workshops/tree/main/oss-models/notebooks)
+  * Resources List: [/Notes.md](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/Notes.md)
+  * Slides: [/[Workshop] Crash Course_ Open-Source Models.pdf](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BWorkshop%5D%20Crash%20Course_%20Open-Source%20Models.pdf)
+  * Notebooks: [/notebooks/](https://github.com/MMBazel/LO_GenAI_Workshops/tree/main/oss-models/notebooks)
 
 ---
 
