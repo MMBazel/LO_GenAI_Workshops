@@ -11,12 +11,18 @@ In the mini-workshop we covered a couple different tutorials, tools and resource
 ## Notebooks & Tutorial Materials 
 
 ### Using TinyLlama Chat
-* Chatting with TinyLlama/TinyLlama-1.1B-Chat-v1.0 on Huggingface: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
+* Chatting with [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) on Huggingface
+
+![Screenshot 2024-04-11 at 5 10 46 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/c0c46997-7a9e-4f1d-a210-c293ab14fe5c)
+
 
 ### Fine-Tuning: Creating a Taylor Swift fine-tuned model 
 There are two notebooks (exact same project): 
+
 * [[Mini]_HelloTaylorSwift_FineTuning.ipynb](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BMini%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
 * [[Explainer]_HelloTaylorSwift_FineTuning.ipynb](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BExplainer%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
+
+![Screenshot 2024-04-11 at 5 10 15 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/7b476d03-2398-4158-befa-2380b8e821bf)
 
 There are some requirements that need to be met to work, namely that you need:
 1. Need a [Huggingface account](https://huggingface.co/)
