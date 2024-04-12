@@ -4,9 +4,13 @@ In the mini-workshop we covered a couple different tutorials, tools and resource
 
 👇 The links to the referenced resources are below 👇
 
+---
+
 ## Slides & Talk
 * Slides should be in this repo but backup slides will also be posted to LinkedIn
 * For the talk video, check with Tine &/or Rex. 
+
+---
 
 ## Notebooks & Tutorial Materials 
 
@@ -15,12 +19,15 @@ In the mini-workshop we covered a couple different tutorials, tools and resource
 
 ![Screenshot 2024-04-11 at 5 10 46 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/c0c46997-7a9e-4f1d-a210-c293ab14fe5c)
 
+--- 
 
 ### Fine-Tuning: Creating a Taylor Swift fine-tuned model 
 There are two notebooks (exact same project): 
 
-* [Fine-Tuning TinyLlama TaylorSwift](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/notebooks/%5BMini%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
-* [Explainer| Fine-Tuning TinyLlama Taylorswift](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/notebooks/%5BExplainer%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
+* 📓 [Fine-Tuning TinyLlama TaylorSwift](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/notebooks/%5BMini%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
+  *   Note: If that link doesn't work, try this one: [Colab Link](https://colab.research.google.com/drive/1hGKgfb0SmFeJDC12dHb4X7FqAu0vt6Oh?usp=sharing)
+* 📓 [Explainer| Fine-Tuning TinyLlama Taylorswift](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/notebooks/%5BExplainer%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
+  *   Note: Alternative link: [Colab Link](https://colab.research.google.com/drive/1x_F6WG-ONL_cHiz5u657gu9Ane9GLI9U?usp=drive_link)
 
 ![Screenshot 2024-04-11 at 5 10 15 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/7b476d03-2398-4158-befa-2380b8e821bf)
 
@@ -57,6 +64,7 @@ Tutorials on SFT & fine-tuning, TinyLlama, & HuggingFace
 * [Instruct-Tune Llama to Create ChatGPT Like Chatbots | Custom Dataset, Huggingface, SFT](https://www.youtube.com/watch?v=6XeTk8cZUsM)
 * https://github.com/uygarkurt/SFT-TinyLlama/tree/main
 
+---
 
 ### Doing Simple RAG 
 There are two notebooks/spaces that I showed and which offer a great introduction to using RAG (both of which are hosted on [Lightning.ai](https://lightning.ai/)).
@@ -67,15 +75,16 @@ Right now Lightning.ai has a really generous pricing & billing structure + if yo
 
 Anecdote: I ran the Weaviate notebook at least 20 times on the A100 and only burned down 3 units, so there's plenty for building example projects.
 
-* Chat with your code using RAG! (Easy Mode) - https://lightning.ai/lightning-ai/studios/chat-with-your-code-using-rag?section=featured
+* 📓 Chat with your code using RAG! (Easy Mode) - https://lightning.ai/lightning-ai/studios/chat-with-your-code-using-rag?section=featured
 
 For this first space, you don't need anything special in terms of keys or credentials.
 
-* Chat with your code: Using [Weaviate](https://weaviate.io/), [LlamaIndex](https://www.llamaindex.ai/), & [Ollama](https://ollama.com/) (Not as easy) - https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex
+* 📓 Chat with your code: Using [Weaviate](https://weaviate.io/), [LlamaIndex](https://www.llamaindex.ai/), & [Ollama](https://ollama.com/) (Not as easy) - https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex
 
 For the second space you'll need to create an account with Weaviate to create a hosted Weaviate cluster where the embeddings are ultimately stored. 
 The instructions are incredibly straight-forward and they offer a 14-day trial. You can do quite a bit with the existing sandbox clusters for toy projects and they have an active developer community, so would highly recommend.
 
+---
 
 ## Additional Resources
 
