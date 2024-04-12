@@ -91,6 +91,7 @@ These are resources that can be helpful but weren't primary references.
 * [A collection of multi-day tutorials on LLMs: github/awesome-generative-ai-guide: https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main)
 * [One of the best bootcamps on AI Engineering - Videos are kind of rough and slides are pretty incomplete but still really good - AI Makerspace](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)
 * [The Labonne LLMOps Mega-Course](https://github.com/mlabonne/llm-course)
+* [LLMOps Bootcamp by FSDL](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 
 ### Gen-AI Ecosystem
 * [Excellent AI Summarizer: https://buttondown.email/ainews](https://buttondown.email/ainews)
