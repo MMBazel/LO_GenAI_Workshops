@@ -19,8 +19,8 @@ In the mini-workshop we covered a couple different tutorials, tools and resource
 ### Fine-Tuning: Creating a Taylor Swift fine-tuned model 
 There are two notebooks (exact same project): 
 
-* [[Mini]_HelloTaylorSwift_FineTuning.ipynb](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BMini%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
-* [[Explainer]_HelloTaylorSwift_FineTuning.ipynb](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/%5BExplainer%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
+* [Fine-Tuning TinyLlama TaylorSwift](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/notebooks/%5BMini%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the minimal amount of code need to fine-tune a tinyllama model on Taylor Swift lyrics.
+* [Explainer| Fine-Tuning TinyLlama Taylorswift](https://github.com/MMBazel/LO_GenAI_Workshops/blob/main/oss-models/notebooks/%5BExplainer%5D_HelloTaylorSwift_FineTuning.ipynb) - This is the explainer notebook; it has a lot more unnecessary code (like print statements), is peppered with explanations about each code block. At the end I also offer some suggestions for how to extend the notebook.
 
 ![Screenshot 2024-04-11 at 5 10 15 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/7b476d03-2398-4158-befa-2380b8e821bf)
 
