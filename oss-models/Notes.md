@@ -91,6 +91,7 @@ These are resources that can be helpful but weren't primary references.
 
 
 ### Fine-Tuning 
+* [Youssef Hosni's Fine-Tuning Recommendations](https://www.linkedin.com/posts/youssef-hosni-b2960b135_mastering-large-language-model-llm-fine-tuning-activity-7180922344054398976-t561?utm_source=share&utm_medium=member_desktop)
 
 
 ### RAG
