@@ -93,7 +93,8 @@ These are resources that can be helpful but weren't primary references.
 * [The Labonne LLMOps Mega-Course](https://github.com/mlabonne/llm-course)
 
 ### Gen-AI Ecosystem
-* Excellent AI Summarizer: https://buttondown.email/ainews
+* [Excellent AI Summarizer: https://buttondown.email/ainews](https://buttondown.email/ainews)
+* [Latent.Space interviewing most of the gen-AI ecosystem at one point or another: https://www.latent.space/about](https://www.latent.space/about)
 
 
 ### Fine-Tuning 
