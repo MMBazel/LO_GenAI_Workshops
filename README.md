@@ -4,7 +4,7 @@ Repo for slides and supplementary material's for the Lonely Octopus 2024 bootcam
 
 ### 🦙 Mini-Workshop: Crash Course Open Source Models 🦙  - April 11th (Thursday) at 8PM PST
 * Description: Understanding how to build with open-source models is a requirement for being an in-demand, AI engineer. We'll learn the main ways open-source models can be used off-the-shelf, adapted or chained for modern Gen-AI applications.
-* [Resources List: https://github.com/MMBazel/LO_GenAI_Workshops/tree/main/oss-models](https://github.com/MMBazel/LO_GenAI_Workshops/tree/main/oss-models)
+* [Resources List: /oss-models](https://github.com/MMBazel/LO_GenAI_Workshops/tree/main/oss-models)
 
 
 ### 🧰 Talk: "MLOps: More Relevant Than Ever" 🧰 - April 25th (Thursday) at 8PM PST
