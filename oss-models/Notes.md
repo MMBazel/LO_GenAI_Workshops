@@ -76,11 +76,17 @@ The instructions are incredibly straight-forward and they offer a 14-day trial. 
 These are resources that can be helpful but weren't primary references.
 ### LLMs
 * How do LLMs like ChatGPT work? Explained by Deep-Fake Ryan Gosling using Synclabs and ElevenLabs: https://www.youtube.com/watch?v=xU_MFS_ACrU
+* [Andrej Karpathy's Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+* [State of GPT | Andrej Karpathy's Detailed description of how Chat-GPT came to be](https://youtu.be/bZQun8Y4L2A?si=VZV0t831ctsmBRFV)
+* [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+* [Cohere's LLM University](https://docs.cohere.com/docs/llmu)
 
 ### AI Engineering
+* [A collection of multi-day tutorials on LLMs: github/awesome-generative-ai-guide: https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main)
+* [One of the best bootcamps on AI Engineering - Videos are kind of rough and slides are pretty incomplete but still really good - AI Makerspace](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)
+* [The Labonne LLMOps Mega-Course](https://github.com/mlabonne/llm-course)
 
-
-### LLMOps/Gen-AI Ecosystem
+### Gen-AI Ecosystem
 * Excellent AI Summarizer: https://buttondown.email/ainews
 
 
@@ -88,9 +94,11 @@ These are resources that can be helpful but weren't primary references.
 
 
 ### RAG
-* How RAG makes LLMs like ChatGPT more accurate and up-to-date. By Deep-Fake Chance The Rapper.: https://www.youtube.com/watch?v=q9hlaa7DnNU
-
-* LLM and Vector Databases: Concepts, Architectures, and Examples - Sam Partee - https://www.youtube.com/watch?v=zEX3xVxSqqM
+* [How RAG makes LLMs like ChatGPT more accurate and up-to-date. By Deep-Fake Chance The Rapper.](https://www.youtube.com/watch?v=q9hlaa7DnNU) 
+* [LLM and Vector Databases: Concepts, Architectures, and Examples - Sam Partee](https://www.youtube.com/watch?v=zEX3xVxSqqM)
+* [Building RAG-based LLM Applications for Production from Anyscale](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
+* [Prince Canuma's RAGOps Presentation](https://www.linkedin.com/posts/langchain_ragops-advanced-retrieval-strategies-with-activity-7179983238927380480-6q6w/?utm_source=share&utm_medium=member_ios)
 
 ## Additional Practice
-* One of the best Hackathon sites for Gen-AI: https://lablab.ai/
+* [One of the best Hackathon sites for Gen-AI: https://lablab.ai/](https://lablab.ai/)
+* [Huggingface Open-Source Cookbook](https://huggingface.co/learn/cookbook/index)
