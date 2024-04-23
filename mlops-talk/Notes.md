@@ -35,8 +35,7 @@ Note: These are from VC firms -- which can have their own bias -- however they a
 * ⭐ [(Blog) Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two)
 
 ### Why Data is one of the most important elements of MLOps
-* ⭐ [(Blog) Why Data Quality Is More Important Than Ever in an AI-Driven World ](https://open.substack.com/pub/dataproducts/p/why-data-quality-is-more-important?r=7601v&utm_campaign=post&utm_medium=web | 
-The Shift to Data-Centric AI)
+* ⭐ [(Blog) Why Data Quality Is More Important Than Ever in an AI-Driven World | The Shift to Data-Centric AI ](https://open.substack.com/pub/dataproducts/p/why-data-quality-is-more-important?r=7601v&utm_campaign=post&utm_medium=web)
 * ⭐ [(Blog) The Hard Part About Production ML Isn’t Getting Started: Part 1/n on data quality for production ML](https://mikikobazeley.substack.com/p/data-quality-in-mlops-part-1?r=7601v)
 * [(Blog) All Models Fade - The Inevitability of Change: Part 2/n on what drift is, why it matters, and how we can start monitoring it.](https://mikikobazeley.substack.com/p/all-models-fade-the-inevitability?r=7601v)
 * [(Blog) Managing Drift & Data Quality: Part 3/n of a high-level intro to why all models (even gen-AI) will change & how to start responding on the data level](https://mikikobazeley.substack.com/p/managing-drift-and-data-quality?r=7601v)
