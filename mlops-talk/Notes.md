@@ -8,7 +8,7 @@ Note: ⭐ = Definitely should read for the course
 
 ---
 ## Slides
-Check out at this link: https://docs.google.com/presentation/d/1Jy2fXs5PB6rRbCYYZSn4rjgllA3g6C0ERQYByjj52k8/edit?usp=sharing
+Check out at this [👉 link 👈](https://docs.google.com/presentation/d/1Jy2fXs5PB6rRbCYYZSn4rjgllA3g6C0ERQYByjj52k8/edit?usp=sharing)
 
 ---
 ## Pre-Reading
