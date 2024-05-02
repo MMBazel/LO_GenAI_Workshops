@@ -14,4 +14,5 @@ Check out at this [👉 link 👈]()
 ---
 ## Pre-Reading
 ### What are agents? 
-https://www.youtube.com/watch?v=IWIusSdn1e4
+What we hope agents will do for us
+https://www.youtube.com/embed/IWIusSdn1e4?si=27cRSq2RpFyzQfV5
