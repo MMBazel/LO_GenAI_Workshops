@@ -27,20 +27,27 @@ What we hope agents will do for us:
 
 
 ## Introduction to Agents
+### Ingredients of agents
+* Jim Fan - Nvidia: ["The moat of software AI agents is not the thin wrapper layer (Devin, SWE-Agent), but the underlying LLM."](https://www.linkedin.com/posts/drjimfan_the-moat-of-software-ai-agents-is-not-the-activity-7183871380742922242-0NE3/?utm_source=share&utm_medium=member_desktop)
+
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/8a4fade8-52d1-446a-870b-80912674db36)
+
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/68657039-247b-4fc1-8359-aa08aaec60eb)
+
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/edf38e51-4fd6-44ff-bb54-7445c1375b18)
+
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/e576aed7-307c-4f89-8dba-2e20c54f3ab1)
+
+
 ### LLM Agents 101
 * Aishwarya Naresh Reganti 's ["LLM Agents 101"](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/agents_101_guide.md) 
 ![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/5caa13c6-2a7d-47fe-adc9-427ba5eef6c8)
 
-### Ingredients of agents
-* Jim Fan - Nvidia: ["The moat of software AI agents is not the thin wrapper layer (Devin, SWE-Agent), but the underlying LLM."](https://www.linkedin.com/posts/drjimfan_the-moat-of-software-ai-agents-is-not-the-activity-7183871380742922242-0NE3/?utm_source=share&utm_medium=member_desktop)
 
-![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/edf38e51-4fd6-44ff-bb54-7445c1375b18)
-Source: https://twitter.com/bindureddy/status/1777136946705539363?s=12
-
-
-* [Richmond Alake at MongoDB](https://www.mongodb.com/developer/products/atlas/agent-fireworksai-mongodb-langchain/)
-
-![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/8a4fade8-52d1-446a-870b-80912674db36)
+## Technical Reading
+### The agent framework landscape
+* Eduardo Ordax on LinkedIn: [Characteristics & use cases](https://www.linkedin.com/posts/eordax_ai-genai-agent-activity-7188922479887736832-6rHM/?utm_source=share&utm_medium=member_desktop)
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/ddd2800e-0536-4bd0-af2e-167962025a9d)
 
 * Jerry Liu (Llamaindex) on [building agents](https://twitter.com/jerryjliu0/status/1784279431739265439?s=12)
   
@@ -50,13 +57,6 @@ Source: https://twitter.com/bindureddy/status/1777136946705539363?s=12
 > Query Planning: Given the task + surrounding context, decompose it into a series of steps (chain-of-thought, DAG, tree). Can be represented as a simple prompt call with structured outputs.
 > Memory: Store state across user tasks, to better inform the next task. Important for any chatbot!
 > Tool Use: Use the LLM to make API calls to any external system. This could be a vector db (through auto-retrieval). This could also be calling an external API (Slack, Gmail, Calendar) 
-
-## Technical Reading
-### The agent framework landscape
-* Eduardo Ordax on LinkedIn: [Characteristics & use cases](https://www.linkedin.com/posts/eordax_ai-genai-agent-activity-7188922479887736832-6rHM/?utm_source=share&utm_medium=member_desktop)
-![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/ddd2800e-0536-4bd0-af2e-167962025a9d)
-
-* [Vertex AI Agent builder from Google](https://www.linkedin.com/posts/paulroetzer_the-ai-show-episode-92-ai-reveals-at-google-activity-7186004839221395456-ezrq/?utm_source=share&utm_medium=member_ios)
 
 ### The knitty-gritty of building & using agents
 * Emerging AI Agent Architectures - presents a concise summary of emerging AI agent architectures; it focuses the discussion on capabilities like reasoning, planning, and tool calling which are all needed to build complex AI-powered agentic workflows and systems; the report includes current capabilities, limitations, insights, and ideas for future development of AI agent design. [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
@@ -82,7 +82,13 @@ Andre Ng on
 * Project: [A Progressive Understanding Web Agent for Web Crawler Generation](https://twitter.com/arankomatsuzaki/status/1782227184410669417?s=12)
 * Project: [Building a finance agent with Llamaindex](https://www.linkedin.com/posts/llamaindex_building-a-finance-agent-if-youre-looking-activity-7182842001321549825-afYb/?utm_source=share&utm_medium=member_desktop)
 * Hackathon: [AI Agents Global Challenge](https://aiagentschallenge.com/)
+* Project: [Demo of a game with GPT-4 agents! 🚀 Starlight Labs shows the next step in the Large Language Model world where it builds on the ideas shared in the paper.](https://www.linkedin.com/posts/sanyambhutani_demo-of-a-game-with-gpt-4-agents-remember-activity-7117122606222258176-NsUb/?utm_source=share&utm_medium=member_desktop)
+* Project: [An indie hacker just jailbroke a Google Nest to run his own LLM agents and voice models.](https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-is-the-future-an-indie-hacker-just-ugcPost-7090017332042891264-DRpV/?utm_source=share&utm_medium=member_ios)
 
-### Cookbooks & Tools
+### Cookbooks & Other Tools
 * ["new LlamaIndex + Mistral AI Cookbook Series on RAG, routing, agents, function calling and more 🧑‍🍳 🧡" ](https://www.linkedin.com/posts/sophiamyang_love-the-new-llamaindex-mistral-ai-cookbook-activity-7182776358924693504-s85k/?utm_source=share&utm_medium=member_ios)
-* 
+* [Vertex AI Agent builder from Google](https://www.linkedin.com/posts/paulroetzer_the-ai-show-episode-92-ai-reveals-at-google-activity-7186004839221395456-ezrq/?utm_source=share&utm_medium=member_ios)
+
+## Other good reads
+* [On-Premise ➡ Software-as-a-Service ➡ Service-as-Software 🤖? from DecibelVC](https://www.linkedin.com/posts/dan-nguyen-huu-11502719_a-new-frontier-service-as-software-powered-activity-7127682014169755649-lLgN/?utm_source=share&utm_medium=member_ios)
+*  [MetaGPT paper is an absolute golden treat on how to effectively apply Large Language Model powered agents. It takes inspiration from how humans work in software industry and applies it to agents. ](https://www.linkedin.com/posts/sanyambhutani_a-masterpiece-on-using-llm-agents-metagpt-activity-7095385402106163201--mzJ/?utm_source=share&utm_medium=member_ios)
