@@ -9,7 +9,7 @@ Note: ⭐ = Definitely should read for the course
 
 ---
 ## Slides
-Check out at this [👉 link 👈]()
+None for this talk, just readings and the take-home task to build an agent with RelevanceAI. 
 
 
 ---
@@ -20,7 +20,10 @@ What we hope agents will do for us:
 
 #### Try building an agent
 * [RelevanceAI](https://relevanceai.com/agents): try to build social copy to send out in an email using an OpenAI key
+
 ![Screenshot 2024-05-02 at 7 24 58 PM](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/9efbb81c-55d3-4d92-a221-bbafe3de10db)
+
+* [Zapier](https://zapier.com/ai)
 
 
 ## Introduction to Agents
