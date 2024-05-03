@@ -11,7 +11,9 @@ Note: ⭐ = Definitely should read for the course
 ## Slides
 Check out at this [👉 link 👈]()
 
+
 ---
 ## Pre-Reading
 ### What are agents? 
-What we hope agents will do for us: https://www.youtube.com/watch?v=IWIusSdn1e4
+What we hope agents will do for us: 
+* Video: [Silicon Valley Season 6 Gilfoyle's AI Chat Bot War](https://www.youtube.com/watch?v=IWIusSdn1e4)
