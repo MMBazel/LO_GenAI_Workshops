@@ -34,6 +34,10 @@ What we hope agents will do for us:
 ### Ingredients of agents
 * Jim Fan - Nvidia: ["The moat of software AI agents is not the thin wrapper layer (Devin, SWE-Agent), but the underlying LLM."](https://www.linkedin.com/posts/drjimfan_the-moat-of-software-ai-agents-is-not-the-activity-7183871380742922242-0NE3/?utm_source=share&utm_medium=member_desktop)
 
+![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/edf38e51-4fd6-44ff-bb54-7445c1375b18)
+Source: https://twitter.com/bindureddy/status/1777136946705539363?s=12
+
+
 * [Richmond Alake at MongoDB](https://www.mongodb.com/developer/products/atlas/agent-fireworksai-mongodb-langchain/)
 
 ![image](https://github.com/MMBazel/LO_GenAI_Workshops/assets/3360070/8a4fade8-52d1-446a-870b-80912674db36)
@@ -57,8 +61,13 @@ What we hope agents will do for us:
 ### The knitty-gritty of building & using agents
 * Emerging AI Agent Architectures - presents a concise summary of emerging AI agent architectures; it focuses the discussion on capabilities like reasoning, planning, and tool calling which are all needed to build complex AI-powered agentic workflows and systems; the report includes current capabilities, limitations, insights, and ideas for future development of AI agent design. [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
 
+* Along Blochman on [The TLDR on agentic workflows](https://www.linkedin.com/posts/alonbochman_aiagents-agenticai-workflowautomation-activity-7180915750147084288-KBzI/?utm_source=share&utm_medium=member_ios)
+
 Andre Ng on
+> Last week, I described four design patterns for AI agentic workflows that I believe will drive significant progress: Reflection, Tool use, Planning and Multi-agent collaboration. Instead of having an LLM generate its final output directly, an agentic workflow prompts the LLM multiple times, giving it opportunities to build step by step to higher-quality output. [LinkedIn](https://www.linkedin.com/posts/andrewyng_one-agent-for-many-worlds-cross-species-activity-7179159130325078016-_oXr/?utm_source=share&utm_medium=member_ios)
+
 * [Will the prevalance of agentic workflows produce and refine higher-quality pre-training data?](https://www.linkedin.com/posts/andrewyng_apples-tiny-llms-amazon-rethinks-cashier-free-activity-7191823188215885825-blwT/?utm_source=share&utm_medium=member_desktop)
+* [Agentic workflows](https://twitter.com/andrewyng/status/1770897666702233815?s=12)
 * ["Multi-agent collaboration has emerged as a key AI agentic design pattern."](https://www.linkedin.com/posts/andrewyng_ai-agents-with-lowno-code-hallucinations-activity-7186771840034340864-14ug/?utm_source=share&utm_medium=member_desktop)
 * ["Planning is a key agentic AI design pattern in which we use a large language model (LLM) to autonomously decide on what sequence of steps to execute to accomplish a larger task."](https://www.linkedin.com/posts/andrewyng_autonomous-coding-agents-instability-at-activity-7185372097127366658-8DMS/?utm_source=share&utm_medium=member_desktop)
 
@@ -71,3 +80,9 @@ Andre Ng on
 * Project: [Building an AI Agent With Memory Using MongoDB, Fireworks AI, and LangChain](https://www.mongodb.com/developer/products/atlas/agent-fireworksai-mongodb-langchain/)
 * Project: [🎥 Llama 3 + CrewAI + Groq = Email AI Agent 🤖📧](https://www.linkedin.com/posts/samwitteveen_llama3-crewai-groq-email-ai-agent-activity-7188367604061736961-ygLo/?utm_source=share&utm_medium=member_ios)
 * Project: [A Progressive Understanding Web Agent for Web Crawler Generation](https://twitter.com/arankomatsuzaki/status/1782227184410669417?s=12)
+* Project: [Building a finance agent with Llamaindex](https://www.linkedin.com/posts/llamaindex_building-a-finance-agent-if-youre-looking-activity-7182842001321549825-afYb/?utm_source=share&utm_medium=member_desktop)
+* Hackathon: [AI Agents Global Challenge](https://aiagentschallenge.com/)
+
+### Cookbooks & Tools
+* ["new LlamaIndex + Mistral AI Cookbook Series on RAG, routing, agents, function calling and more 🧑‍🍳 🧡" ](https://www.linkedin.com/posts/sophiamyang_love-the-new-llamaindex-mistral-ai-cookbook-activity-7182776358924693504-s85k/?utm_source=share&utm_medium=member_ios)
+* 
